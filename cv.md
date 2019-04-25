@@ -3,22 +3,29 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+PhD student in Clinical Informatics at DMICE, OHSU
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`1996 - 1997`
+__University of South Carolina__
+MPH
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1990 - 1992`
+__Banaras Hindu University__
+M.Sc. Biotechnology
+
+`1987 - 1990`
+__Banaras Hindu University__
+B.Sc. Chemistry Honors
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2017`
+National Library of Medicine Fellowship
+
+`1992`
+Junior Research Fellowship 
 
 ## Publications
 

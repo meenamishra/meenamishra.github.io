@@ -34,11 +34,11 @@ Ivlev I, Jerabkova S, Mishra M, Cook L, Eden K. Prostate Cancer Screening Patien
 
 ## Abstracts 
 
-Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prostate-Specific Antigen Based Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., Meenakshi Mishra, M.Sc., M.P.H., Silvie Jerabkova, M.Sc. and Karen B. Eden, Ph.D. 
+39th Annual North American Meeting of the Society for Medical Decision Making; 2017 October;Pittsburgh, PA, USA. Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prostate-Specific Antigen Based Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., Meenakshi Mishra, M.Sc., M.P.H., Silvie Jerabkova, M.Sc. and Karen B. Eden, Ph.D. 
 
-Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., MBI, Lily Cook, M.A., LPC, Silvie Jerabkova, M.Sc, Meenakshi Mishra, M.Sc., M.P.H, and Karen B. Eden, Ph.D.
+2018 Annual Research Meeting, Seattle, WA. Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., MBI, Lily Cook, M.A., LPC, Silvie Jerabkova, M.Sc, Meenakshi Mishra, M.Sc., M.P.H, and Karen B. Eden, Ph.D.
 
-Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Lily Cook, MA, LPC, Silvie Jerabkova, MSc, Meenakshi Mishra, M.Sc, M.P.H, Karen B. Eden, Ph.D and Ilya Ivlev, M.D., Ph.D., MBI.
+2018 Annual Research Meeting, Seattle, WA. Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Lily Cook, MA, LPC, Silvie Jerabkova, MSc, Meenakshi Mishra, M.Sc, M.P.H, Karen B. Eden, Ph.D and Ilya Ivlev, M.D., Ph.D., MBI.
 
 
 ## Presentations

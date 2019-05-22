@@ -1,6 +1,3 @@
----
-layout: resume
----
 ## Currently
 
 PhD student in Clinical Informatics at DMICE, OHSU
@@ -31,13 +28,6 @@ Junior Research Fellowship
 Ivlev I, Jerabkova S, Mishra M, Cook L, Eden K. Prostate Cancer Screening Patient Decision Aids: A Systematic Review and Meta-analysis. American Journal of Preventive Medicine. 2018;55(6):896-907
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
 
 ### Abstracts
 
@@ -46,13 +36,6 @@ Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prosta
 Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., MBI, Lily Cook, M.A., LPC, Silvie Jerabkova, M.Sc, Meenakshi Mishra, M.Sc., M.P.H, and Karen B. Eden, Ph.D.
 
 Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Lily Cook, MA, LPC, Silvie Jerabkova, MSc, Meenakshi Mishra, M.Sc, M.P.H, Karen B. Eden, Ph.D and Ilya Ivlev, M.D., Ph.D., MBI.
-
-### Books
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
 
 
 ## Presentations

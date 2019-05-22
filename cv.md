@@ -1,4 +1,3 @@
-## Currently
 
 PhD student in Clinical Informatics at DMICE, OHSU
 

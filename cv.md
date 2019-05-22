@@ -41,17 +41,13 @@ Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive
 ## Presentations
 
 `2019`
-Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain, OHSU Research Week. 
-<a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+Poster presentation: Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain, OHSU Research Week. 
 
 
 ## Occupation
 
 `Current`
 __PhD Student - Clinical Informatics__, DMICE, OHSU 
-
-- Task
-- Task
 
 `2009-2016`
 __Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHSU                                              

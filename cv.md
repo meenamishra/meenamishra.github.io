@@ -59,6 +59,54 @@ __Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHS
 - Sent weekly open studies reports to the providers, trained new team members, fellows and volunteers on study related processes and systems.
 
 `2007-2009`
+__Registry Coordinator__, Center for Hematologic Malignancies, OHSU                                                        
+         
+- Reported transplant registry data to the Center for International Bone Marrow Transplant Registry (CIBMTR). 
+- Supported transition from paper to electronic data reporting system. 
+- Planned and implemented data catch process to clear all backlogs. 
+- Helped develop an investigator initiated study.
+
+`1998-2000`
+__Lab Technician 3__, Department of Molecular and Medical Genetics, OHSU   
+
+-Supported research project looking at the relationship between the presence of Ureaplasma urealyticum in the tracheal aspirates of very low birth weight babies and incidence of Chronic Lung Disease (CLD). Used Polymerase Chain Reaction (PCR) as a preferred technique to detect and quantify the bacterium.
+-Designed and executed experiments and ordered lab supplies.
+-Designed a basic Access database for my research data. 
+
+`2007-2009`
+__Graduate Assistant__, School of Public Health, University of South Carolina, Columbia, SC   
+				          
+- Used molecular techniques such as PAGE and Western Blot for a research project that involved studying heat shock proteins in oysters. The project was aimed at studying relationship between levels of heat shock protein, Hsp 70, in transplanted oysters in response to the various contaminant stresses. 
+- Designed and executed experiments, collected, analyzed and interpreted data. 
+
+`1992-1993`
+__Junior Research Fellow__, Department of Biotechnology, All India Institute of Medical Sciences, New Delhi, India
+
+- Assisted in the study of time kinetics of cytokines after the exposure of human T cells to M. leprae. The study involved the use of Polymerase Chain Reaction (PCR) techniques and Western Blots.
+
+
+### Advising and Mentoring
+
+Mentored and trained new members of the research team.
+Advised Senior MD fellow on how to do IRB submission for investigator initiated studies.
+Mentored new CIBMTR data managers.
+Helped plan CIBMTR sessions for the annual Data Manager’s meetings.
+
+
+### Community outreach and volunteer services 
+
+- Volunteered with FIRST (For Inspiration and Recognition of Science and Technology) robotics program; mentored and coached middle and high school robotic teams and volunteered at local robotics competitions.
+- Volunteer with North-West Science Expo, judged science projects at various State and Regional Science Fairs.
+- Served on the school site council board
+- Served as a board member of a local sport team.
+
+
+### Interests
+
+- Jogging for fitness - 2004 Portland Marathon Finisher.
+- Hiking the many Portland trails.
+- Listening to TED Talks.
+
 
 
 

@@ -28,7 +28,7 @@ National Library of Medicine Fellowship
 Junior Research Fellowship 
 
 ## Publications
-
+Ivlev I, Jerabkova S, Mishra M, Cook L, Eden K. Prostate Cancer Screening Patient Decision Aids: A Systematic Review and Meta-analysis. American Journal of Preventive Medicine. 2018;55(6):896-907
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals

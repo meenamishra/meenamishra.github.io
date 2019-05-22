@@ -39,8 +39,15 @@ Article Title, Journal Title
 `1994`
 Article Title, Journal Title
 
-### Books
+### Abstracts
 
+Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prostate-Specific Antigen Based Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., Meenakshi Mishra, M.Sc., M.P.H., Silvie Jerabkova, M.Sc. and Karen B. Eden, Ph.D. 
+
+Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., MBI, Lily Cook, M.A., LPC, Silvie Jerabkova, M.Sc, Meenakshi Mishra, M.Sc., M.P.H, and Karen B. Eden, Ph.D.
+
+Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Lily Cook, MA, LPC, Silvie Jerabkova, MSc, Meenakshi Mishra, M.Sc, M.P.H, Karen B. Eden, Ph.D and Ilya Ivlev, M.D., Ph.D., MBI.
+
+### Books
 `1994`
 Book Title, Journal Title
 
@@ -50,23 +57,29 @@ Book Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2019`
+Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain, OHSU Research Week. 
+<a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__PhD Student - Clinical Informatics__, DMICE, OHSU 
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2009-2016`
+__Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHSU                                              
 
-- Task
-- Task
+- Managed and coordinated numerous industry (Osiris, Chimerix and Jazz) and consortium (COG, BMT CTN) sponsored, phase II and III, multi-center trials in pediatric cancer, bone marrow transplant and supportive care.
+- Maintained regulatory compliance with local and central IRB, coordinated sponsor and monitor site visits, submitted study data and case report forms, prepared and submitted adverse events to sponsor and IRB, ensured drug accountability, ensured source documentation, addressed and reconciled audit findings.
+- Part of a team that developed electronic patient repository.
+- Maintained local transplant database.
+- Sent weekly open studies reports to the providers, trained new team members, fellows and volunteers on study related processes and systems.
+
+`2007-2009`
 
 
 

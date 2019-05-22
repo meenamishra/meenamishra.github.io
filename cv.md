@@ -16,6 +16,7 @@ M.Sc. Biotechnology
 __Banaras Hindu University,__
 B.Sc. Chemistry Honors
 
+
 ## Awards
 
 `2017`
@@ -24,7 +25,9 @@ National Library of Medicine Fellowship
 `1992`
 Junior Research Fellowship 
 
+
 ## Publications
+
 Ivlev I, Jerabkova S, Mishra M, Cook L, Eden K. Prostate Cancer Screening Patient Decision Aids: A Systematic Review and Meta-analysis. American Journal of Preventive Medicine. 2018;55(6):896-907
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
@@ -112,6 +115,6 @@ Helped plan CIBMTR sessions for the annual Data Manager’s meetings.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2019 -->
 
 

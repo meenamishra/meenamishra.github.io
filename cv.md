@@ -8,15 +8,15 @@ PhD student in Clinical Informatics at DMICE, OHSU
 ## Education
 
 `1996 - 1997`
-__University of South Carolina__
+__University of South Carolina,__
 MPH
 
 `1990 - 1992`
-__Banaras Hindu University__
+__Banaras Hindu University,__
 M.Sc. Biotechnology
 
 `1987 - 1990`
-__Banaras Hindu University__
+__Banaras Hindu University,__
 B.Sc. Chemistry Honors
 
 ## Awards

@@ -1,11 +1,7 @@
 # Site wide configuration
 
-title: Academic Website of Meenakshi Mishra
+title: Academic Website of Meenakshi Mishra, MS, MPH
 locale: en_US
-logo: #
-
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
   name: Meenakshi Mishra
   avatar: bio-photo.JPG
   bio: Ph.D Student & NLM Fellow - Clinical Informatics, DMICE, OHSU  
@@ -14,42 +10,11 @@ owner:
   twitter: 
   linkedin: meenakshimishra
   github: meenamishra
+  url: "http://meenamishra.github.io"
   orcid: 0000-0003-1489-0887
   researchgate: Meenakshi_Mishra8
-  mendeley: #username
-  google: 
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
-  bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
-  xing: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  disqus-shortname:
-
-# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
-# you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
-
-  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
-creative-commons:
-  cc-by: #yes
-  cc-by-nc: yes
-
+  
+  
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 

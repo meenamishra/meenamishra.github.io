@@ -7,8 +7,8 @@ logo: #
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Meenakshi Mishra
-  avatar: bio-photo.jpg
-  bio: Clinical Informatics PhD. student 
+  avatar: ![Meenakshi Mishra](bio-photo.jpg)
+  bio: Ph.D Student & NLM Fellow - Clinical Informatics, DMICE, OHSU  
   email: meenakshim9901@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: 

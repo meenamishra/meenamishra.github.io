@@ -1,6 +1,6 @@
 ## Currently
 
-PhD student in Clinical Informatics at DMICE, OHSU
+PhD student - Clinical Informatics, DMICE, OHSU
 
 ## Education
 

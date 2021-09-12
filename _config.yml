@@ -1,22 +1,30 @@
 # Site wide configuration
 
-title: Academic Website of Meenakshi Mishra, MS, MPH
+title: Academic Website of Meenakshi Mishra
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
   name: Meenakshi Mishra
-  avatar: bio-photo.JPG
-  bio: "Ph.D Student & Pre-doctoral NLM Fellow - Health & Clinical Informatics, DMICE, OHSU"  
-  email: meenakshim9901@gmail.com
+  avatar: bio-photo.jpg
+  bio: "Ph.D Student & Pre-doctoral NLM Fellow, Health & Clinical Informatics, DMICE, OHSU"  
+  email: mishram@ohsu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: 
   linkedin: meenakshimishra
   github: meenamishra
-  url: "http://meenamishra.github.io"
   orcid: 0000-0003-1489-0887
-  researchgate: Meenakshi_Mishra8
-  
-  
+
+# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
+# you may do so in _sass/variables.scss
+highlight-color: '#CC0000'
+lowlight-color: '#000'
+
+  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+creative-commons:
+  cc-by: #yes
+  cc-by-nc: yes
+
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 

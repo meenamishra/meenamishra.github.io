@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage of Meenakshi Nishra, MS, MPH
+title: Homepage of Meenakshi Nishra
 ---
 
 ![Meenakshi Mishra Image]({{site.url}}/images/bio-photo.JPG)
@@ -39,13 +39,9 @@ Hoekstra CJ, Ash JS, Steckler NA, Becton JR, Sanders BW, Mishra M, Gorman PN. Pr
 
 ## Abstracts 
 
-Mishra M, Weiskopf N. Using Sociotechnical Context to Understand the Challenges to Assess Risks and Address Harms for Chronic Opioid Therapy in the Primary Care Setting: A literature review. OHSU Research Week (Virtual); 2021 May
-
 Mishra M, Weiskopf N. Bridging the Gaps between Evidence and Practice of Assessing Risks and Addressing Harms for Adults on Chronic Opioid Therapy. AMIA Informatics Summit Podium Abstract (Virtual); 2021 March
 
-Mishra M. Yes we closed the tap! Now what? NLM Annual Training Meeting (Virtual); 2020 June.
-
-Mishra M. Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain. OHSU Research Week; May 2019; Oregon Health & Science University, Portland, OR.
+Mishra M. Yes we closed the tap! Now what? NLM Annual Training Meeting (Virtual); Podium abstract, 2020 June.
 
 Ivlev I, Cook L, Jerabkova S, Mishra M, Eden KB. Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Annual Research Meeting; 2018 June; Seattle, WA.
 
@@ -57,6 +53,9 @@ Ivlev I, Mishra M, Jerabkova S, Karen B. Eden. Utilization of Patient Decision A
 
 `2019`
 Poster presentation: Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain, OHSU Research Week. 
+
+'2021'
+Lightening talk: Using Sociotechnical Context to Understand the Challenges to Assess Risks and Address Harms for Chronic Opioid Therapy in the Primary Care Setting: A literature review. OHSU Research Week (Virtual)
 
 
 ## Occupation

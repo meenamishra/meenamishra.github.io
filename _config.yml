@@ -2,9 +2,11 @@
 
 title: Academic Website of Meenakshi Mishra, MS, MPH
 locale: en_US
-  name: "Meenakshi Mishra"
+logo: # filename of a logo image that has been placed into your images directory
+
+  name: Meenakshi Mishra
   avatar: bio-photo.JPG
-  bio: Ph.D Student & Pre-doctoral NLM Fellow - Health & Clinical Informatics, DMICE, OHSU  
+  bio: "Ph.D Student & Pre-doctoral NLM Fellow - Health & Clinical Informatics, DMICE, OHSU"  
   email: meenakshim9901@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: 

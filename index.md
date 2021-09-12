@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage of Meenakshi Nishra
+title: Homepage of Meenakshi Mishra
 ---
 
 ![Meenakshi Mishra Image]({{site.url}}/images/bio-photo.JPG)
@@ -10,7 +10,7 @@ I am a Clinical Informatics Ph.D. student and a National Library of Medicine (NL
 ## Current Interests and Projects:
 
 - Opioid prescription workflow design
-- [GitHub Pages](http://meenamishra.github.io)
+- [GitHub Pages](https://github.com/meenamishra)
 - Academia
 
 ## Education

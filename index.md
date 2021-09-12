@@ -91,7 +91,7 @@ Helped plan CIBMTR sessions for the annual Data Manager’s meetings.
 ### Community outreach and volunteer services 
 
 - Volunteered with FIRST (For Inspiration and Recognition of Science and Technology) robotics program; mentored and coached middle and high school robotic teams and volunteered at local robotics competitions.
-- Volunteer with North-West Science Expo, judged science projects at various State and Regional Science Fairs.
+- Volunteered with North-West Science Expo, judged science projects at various State and Regional Science Fairs.
 - Served on the school site council board
 - Served as a board member of a local sport team.
 

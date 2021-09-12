@@ -15,42 +15,43 @@ I am a Clinical Informatics Ph.D. student and a National Library of Medicine (NL
 
 ## Education
 
-`1996 - 1997`
-__University of South Carolina,__
-MPH
+__MPH, University of South Carolina, South Carolina, USA__
 
-`1990 - 1992`
-__Banaras Hindu University,__
-M.Sc. Biotechnology
+__M.Sc. Biotechnology, Banaras Hindu University, Varanasi, India__
 
-`1987 - 1990`
-__Banaras Hindu University,__
-B.Sc. Chemistry Honors
+__B.Sc. Chemistry Honors, Banaras Hindu University, Varanasi, India__
 
 
 ## Awards
 
 `2017`
 National Library of Medicine Fellowship
-
-`1992`
-Junior Research Fellowship 
-
+ 
 
 ## Publications
 
 Ivlev I, Jerabkova S, Mishra M, Cook L, Eden K. Prostate Cancer Screening Patient Decision Aids: A Systematic Review and Meta-analysis. American Journal of Preventive Medicine. 2018;55(6):896-907
+
+Hoekstra CJ, Ash JS, Steckler NA, Becton JR, Sanders BW, Mishra M, Gorman PN. Priorities of hybrid clinician-managers: a qualitative study of how managers balance clinical quality among competing responsibilities. Phys Ther. 2021 Feb 4:pzab048. doi: 10.1093/ptj/pzab048. Epub ahead of print. PMID: 3353883
+
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 
 ## Abstracts 
 
-39th Annual North American Meeting of the Society for Medical Decision Making; 2017 October;Pittsburgh, PA, USA. Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prostate-Specific Antigen Based Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., Meenakshi Mishra, M.Sc., M.P.H., Silvie Jerabkova, M.Sc. and Karen B. Eden, Ph.D. 
+Mishra M, Weiskopf N. Using Sociotechnical Context to Understand the Challenges to Assess Risks and Address Harms for Chronic Opioid Therapy in the Primary Care Setting: A literature review. OHSU Research Week (Virtual); 2021 May
 
-2018 Annual Research Meeting, Seattle, WA. Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Ilya Ivlev, M.D., Ph.D., MBI, Lily Cook, M.A., LPC, Silvie Jerabkova, M.Sc, Meenakshi Mishra, M.Sc., M.P.H, and Karen B. Eden, Ph.D.
+Mishra M, Weiskopf N. Bridging the Gaps between Evidence and Practice of Assessing Risks and Addressing Harms for Adults on Chronic Opioid Therapy. AMIA Informatics Summit Podium Abstract (Virtual); 2021 March
 
-2018 Annual Research Meeting, Seattle, WA. Prostate Specific Antigen (PSA)-Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Lily Cook, MA, LPC, Silvie Jerabkova, MSc, Meenakshi Mishra, M.Sc, M.P.H, Karen B. Eden, Ph.D and Ilya Ivlev, M.D., Ph.D., MBI.
+Mishra M. Yes we closed the tap! Now what? NLM Annual Training Meeting (Virtual); 2020 June.
 
+Mishra M. Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain. OHSU Research Week; May 2019; Oregon Health & Science University, Portland, OR.
+
+Ivlev I, Cook L, Jerabkova S, Mishra M, Eden KB. Patient Decision Aids Can Reduce Utilization of PSA-Based Prostate Cancer Screening: A Systematic Review and Meta-Analysis. Annual Research Meeting; 2018 June; Seattle, WA.
+
+Cook L, Jerabkova S, Mishra M, Eden KB, Ivlev I. Prostate-Specific Antigen (PSA) Based Screening Recommendations: A Comprehensive Review of Recommendations from the Developed Countries. Annual Research Meeting; 2018 June; Seattle, WA.
+
+Ivlev I, Mishra M, Jerabkova S, Karen B. Eden. Utilization of Patient Decision Aids Reduced Men's Intention to Undertake Prostate-Specific Antigen Based Screening: A Systematic Review and Meta-Analysis. 39th Annual North American Meeting of the Society for Medical Decision Making; 2017 October; Pittsburgh, PA.
 
 ## Presentations
 
@@ -61,10 +62,10 @@ Poster presentation: Systems Approach to Determining Risk for Opioid Misuse in P
 ## Occupation
 
 `Current`
-__PhD Student - Clinical Informatics__, DMICE, OHSU 
+__PhD Student - Health & Clinical Informatics__, DMICE, OHSU, Portland, OR, USA 
 
 `2009-2016`
-__Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHSU                                              
+__Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHSU, Portland, OR, USA                                              
 
 - Managed and coordinated numerous industry (Osiris, Chimerix and Jazz) and consortium (COG, BMT CTN) sponsored, phase II and III, multi-center trials in pediatric cancer, bone marrow transplant and supportive care.
 - Maintained regulatory compliance with local and central IRB, coordinated sponsor and monitor site visits, submitted study data and case report forms, prepared and submitted adverse events to sponsor and IRB, ensured drug accountability, ensured source documentation, addressed and reconciled audit findings.
@@ -73,31 +74,12 @@ __Clinical Research Associate__, Pediatric Hematology and Oncology Division, OHS
 - Sent weekly open studies reports to the providers, trained new team members, fellows and volunteers on study related processes and systems.
 
 `2007-2009`
-__Registry Coordinator__, Center for Hematologic Malignancies, OHSU                                                        
+__Registry Coordinator__, Center for Hematologic Malignancies, OHSU, Portland, OR, USA                                                        
          
 - Reported transplant registry data to the Center for International Bone Marrow Transplant Registry (CIBMTR). 
 - Supported transition from paper to electronic data reporting system. 
 - Planned and implemented data catch process to clear all backlogs. 
 - Helped develop an investigator initiated study.
-
-`1998-2000`
-__Lab Technician 3__, Department of Molecular and Medical Genetics, OHSU   
-
--Supported research project looking at the relationship between the presence of Ureaplasma urealyticum in the tracheal aspirates of very low birth weight babies and incidence of Chronic Lung Disease (CLD). Used Polymerase Chain Reaction (PCR) as a preferred technique to detect and quantify the bacterium.
--Designed and executed experiments and ordered lab supplies.
--Designed a basic Access database for my research data. 
-
-`2007-2009`
-__Graduate Assistant__, School of Public Health, University of South Carolina, Columbia, SC   
-				          
-- Used molecular techniques such as PAGE and Western Blot for a research project that involved studying heat shock proteins in oysters. The project was aimed at studying relationship between levels of heat shock protein, Hsp 70, in transplanted oysters in response to the various contaminant stresses. 
-- Designed and executed experiments, collected, analyzed and interpreted data. 
-
-`1992-1993`
-__Junior Research Fellow__, Department of Biotechnology, All India Institute of Medical Sciences, New Delhi, India
-
-- Assisted in the study of time kinetics of cytokines after the exposure of human T cells to M. leprae. The study involved the use of Polymerase Chain Reaction (PCR) techniques and Western Blots.
-
 
 ### Advising and Mentoring
 
@@ -105,7 +87,6 @@ Mentored and trained new members of the research team.
 Advised Senior MD fellow on how to do IRB submission for investigator initiated studies.
 Mentored new CIBMTR data managers.
 Helped plan CIBMTR sessions for the annual Data Manager’s meetings.
-
 
 ### Community outreach and volunteer services 
 

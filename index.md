@@ -54,7 +54,7 @@ Ivlev I, Mishra M, Jerabkova S, Karen B. Eden. Utilization of Patient Decision A
 `2019`
 Poster presentation: Systems Approach to Determining Risk for Opioid Misuse in Patients with Chronic Pain, OHSU Research Week. 
 
-'2021'
+`2021`
 Lightening talk: Using Sociotechnical Context to Understand the Challenges to Assess Risks and Address Harms for Chronic Opioid Therapy in the Primary Care Setting: A literature review. OHSU Research Week (Virtual)
 
 
